@@ -1,5 +1,7 @@
 # NebulaSwap - Cross-Chain Atomic Swap Protocol
 
+![NebulaSwap - Futuristic Blockchain Swap](20250729_0012_Futuristic Blockchain Swap_simple_compose_01k195bbe3fhea5b3tazbwdmrd.png)
+
 A trustless cross-chain atomic swap protocol enabling direct trading between Ethereum (Sepolia) and Cosmos (Osmosis) using Hash Time-Locked Contracts (HTLCs).
 
 ## 🚀 Overview
